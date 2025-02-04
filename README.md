@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jackielene
-- 👀 I’m interested in Front-End and Back-End languages and do have enough knowledge on Laravel and Ionic Framework as well.
+- 👀 I’m interested in Front-End and Back-End languages and do have enough knowledge on ReactJS, JavaScript, PHP, Laravel, MySQL, HTML, CSS, Sass, and Bootstrap.
 - 🌱 I’m currently learning C++ and Java.
 - 💞️ I’m looking to collaborate on any freelancer to create a small project with me.
 - 📫 How to reach me, here's my email account @pomoy.jackielene.s@gmail.com
