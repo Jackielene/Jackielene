@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jackielene/Jackielene/main/github-banner.png" alt="Jackielene Pomoy Banner" width="100%" />
+</p>
 
 # Hi, I'm Jackielene S. Pomoy  
 
