@@ -35,6 +35,6 @@ I focus on both **aesthetics and functionality**, ensuring the applications I de
 ## 📬 **Let's Connect!**  
 📧 **Email:** [pomoy.jackielene.s@gmail.com](mailto:pomoy.jackielene.s@gmail.com)  
 💼 **LinkedIn:** [Jackielene Pomoy](https://www.linkedin.com/in/jackielene-pomoy-a24884234/)  
-🌐 **Portfolio:** [My Responsive Portfolio](https://jackielene.github.io/My-Responsive-Portfolio/)  
+🌐 **Portfolio:** [My Responsive Portfolio](jackielene-pomoy-portfolio.vercel.app)  
 
 *Let’s build something amazing together!*  
