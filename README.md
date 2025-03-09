@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://i.postimg.cc/wtRfxPLf/banner.png" alt="Jackielene Pomoy Banner" width="100%" />
-</p>
 
 # Hi, I'm Jackielene S. Pomoy  
 
