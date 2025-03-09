@@ -12,12 +12,7 @@ I focus on both **aesthetics and functionality**, ensuring the applications I de
 
 ### **Languages & Frameworks**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,php,laravel,react,ionic,cpp,mysql" alt="Tech Stack" />
-</p>
-
-### **IoT & APIs**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mqtt,blynk" alt="IoT & APIs" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,php,laravel,react,ionic framework,cpp,mysql" alt="Tech Stack" />
 </p>
 
 ### **Tools & Platforms**
