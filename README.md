@@ -21,7 +21,7 @@ I focus on both **aesthetics and functionality**, ensuring the applications I de
 
 ### **Tools & Platforms**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,vscode,androidstudio,arduino,firebase" alt="Tools & Platforms" />
+  <img src="https://skillicons.dev/icons?i=figma,vscode,androidstudio,arduino,firebase,trello,slack" alt="Tools & Platforms" />
 </p>
 
 ### **Operating Systems**
