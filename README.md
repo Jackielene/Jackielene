@@ -34,17 +34,17 @@
 
 ### **⚙️ Backend Development**
 <div align="center" style="margin: 1rem 0">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,python,django" alt="Backend Technologies" />
+  <img src="https://skillicons.dev/icons?i=php,laravel" alt="Backend Technologies" />
 </div>
 
 ### **🗃️ Databases & Cloud**
 <div align="center" style="margin: 1rem 0">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase,aws,gcp,azure" alt="Database Technologies" />
+  <img src="https://skillicons.dev/icons?i=mysql,firebase" alt="Database Technologies" />
 </div>
 
 ### **🔧 Development Tools**
 <div align="center" style="margin: 1rem 0">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,docker,postman,figma" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,figma" alt="Development Tools" />
 </div>
 
 ---
