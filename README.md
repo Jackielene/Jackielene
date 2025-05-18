@@ -13,7 +13,7 @@
 </div>
 
 <h1 align="center">👋 Hello, I'm Jackielene S. Pomoy</h1>
-<h3 align="center">💻 Full Stack Developer | 🌐 Web Enthusiast | 🚀 Tech Explorer</h3>
+<h3 align="center">💻 Full Stack Developer</h3>
 
 <div align="center" style="margin: 1.5rem 0">
   
