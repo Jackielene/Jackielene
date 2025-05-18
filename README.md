@@ -1,40 +1,60 @@
-<p align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/Jackielene/Jackielene/main/github-banner.png" alt="Jackielene Pomoy Banner" width="100%" />
-</p>
+</div>
 
-# Hi, I'm Jackielene S. Pomoy  
+<h1 align="center">👋 Hi, I'm Jackielene S. Pomoy</h1>
 
-**4th Year Information Technology Student | Web Developer |**  
+<h3 align="center">💻 4th Year Information Technology Student | � Web Developer | 🔥 Tech Enthusiast</h3>
 
-I'm a **passionate web developer** who loves turning designs into smooth, user-friendly experiences using **modern front-end frameworks**.  
-On the **backend**, I work with **PHP and MySQL** to build **dynamic, database-driven applications** that prioritize efficiency and scalability.  
-I focus on both **aesthetics and functionality**, ensuring the applications I develop are **responsive, visually appealing, and highly optimized**.  
+<div align="center">
+  
+✨ **Passionate web developer** specializing in crafting seamless, user-centric experiences  
+🚀 **Full-stack skills** with focus on both aesthetic design and robust functionality  
+🎯 Building **responsive, optimized** applications that perform beautifully  
 
----
-
-## **Tech Stack**
-
-### **Languages & Frameworks**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,php,laravel,react,ionic framework,cpp,mysql" alt="Tech Stack" />
-</p>
-
-### **Tools & Platforms**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,vscode,androidstudio,arduino,firebase,trello,slack" alt="Tools & Platforms" />
-</p>
-
-### **Operating Systems**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,linux" alt="Operating Systems" />
-</p>
-
+</div>
 
 ---
 
-## 📬 **Let's Connect!**  
+## 🛠️ **Tech Stack**
+
+### **🖥️ Frontend Development**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,ionic" alt="Frontend Tech" />
+</div>
+
+### **⚙️ Backend Development**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,firebase" alt="Backend Tech" />
+</div>
+
+### **🔧 Tools & Platforms**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,figma,androidstudio,arduino,git,github,trello,slack" alt="Tools" />
+</div>
+
+### **💾 Operating Systems**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=windows,linux" alt="OS" />
+</div>
+
+---
+
+## 🎯 **What I Bring to the Table**
+- 🎨 **Eye for design** with strong UI/UX sensibilities
+- ⚡ **Performance-focused** development approach
+- 📱 **Responsive design** that works flawlessly across devices
+- 🧩 **Problem-solving mindset** for clean, maintainable code
+
+---
+
+## 📫 **Let's Collaborate!**
+<div align="center">
+
 📧 **Email:** [pomoy.jackielene.s@gmail.com](mailto:pomoy.jackielene.s@gmail.com)  
-💼 **LinkedIn:** [Jackielene Pomoy](https://www.linkedin.com/in/jackielene-pomoy-a24884234/)  
-🌐 **Portfolio:** [My Responsive Portfolio](https://jackielene.github.io/Jackielene-Pomoy-Portfolio/)  
+🔗 **LinkedIn:** [Jackielene Pomoy](www.linkedin.com/in/jackielene-pomoy)  
+🌐 **Portfolio:** [My Responsive Portfolio](https://jackielene-portfolio.vercel.app)  
 
-*Let’s build something amazing together!*  
+</div>
+
+<h3 align="center">🌟 Let's build something amazing together! 🌟</h3>
