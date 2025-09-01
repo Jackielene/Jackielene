@@ -51,11 +51,23 @@
 
 ## 📊 **Development Metrics**
 <div align="center" style="margin: 1.5rem 0">
-  
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Jackielene&color=blueviolet&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/Jackielene?color=blueviolet&label=FOLLOWERS&style=flat)
 ![Stars](https://img.shields.io/github/stars/Jackielene?color=blueviolet&label=REPO+STARS)
 ![Contributions](https://img.shields.io/github/commit-activity/m/Jackielene?color=blueviolet&label=MONTHLY+COMMITS)
+![Commits](https://img.shields.io/github/commits-since/Jackielene/Jackielene/latest?color=blueviolet&label=COMMITS)
+![Pull Requests](https://img.shields.io/github/issues-pr-closed/Jackielene/Jackielene?color=blueviolet&label=PULL+REQUESTS)
+![Pushes](https://img.shields.io/github/last-commit/Jackielene/Jackielene?color=blueviolet&label=LATEST+PUSH)
+
+</div>
+
+---
+
+## 🏆 **GitHub Achievements**
+<div align="center" style="margin: 1.5rem 0">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Jackielene&theme=dracula&margin-w=10&margin-h=10&column=6)
 
 </div>
 
