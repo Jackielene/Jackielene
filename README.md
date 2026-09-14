@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Jackielene/Jackielene/main/github-banner.png" alt="Jackielene Pomoy Banner" width="100%" />
   
   <!-- GitHub Stats Cards -->
   <div align="center" style="margin: 2rem 0">
